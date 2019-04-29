@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx",
+    "xx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "testmod:tutorial_dust"
+    }
+  },
+  "result":
+  {
+    "item": "testmod:tutorial_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testmod:tutorial_block"
+    }
+  ],
+  "result":
+  {
+    "item": "testmod:tutorial_dust",
+    "count": 4
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "item.testmod.tutorial_dust": "DUST!",
+  "item.testmod.tutorial_block": "BLOCK!",
+
+  "itemGroup.testmod": "TestMod!"
+}
